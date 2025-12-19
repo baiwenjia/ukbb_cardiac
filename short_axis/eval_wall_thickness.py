@@ -68,7 +68,7 @@ if __name__ == '__main__':
                                'WT_AHA_10 (mm)', 'WT_AHA_11 (mm)', 'WT_AHA_12 (mm)',
                                'WT_AHA_13 (mm)', 'WT_AHA_14 (mm)', 'WT_AHA_15 (mm)', 'WT_AHA_16 (mm)',
                                'WT_Global (mm)'])
-    # df.to_csv(args.output_csv)
+    df.to_csv(args.output_csv)
 
     df = pd.DataFrame(table_max, index=processed_list_max,
                       columns=['WT_Max_AHA_1 (mm)', 'WT_Max_AHA_2 (mm)', 'WT_Max_AHA_3 (mm)',
@@ -77,4 +77,4 @@ if __name__ == '__main__':
                                'WT_Max_AHA_10 (mm)', 'WT_Max_AHA_11 (mm)', 'WT_Max_AHA_12 (mm)',
                                'WT_Max_AHA_13 (mm)', 'WT_Max_AHA_14 (mm)', 'WT_Max_AHA_15 (mm)', 'WT_Max_AHA_16 (mm)',
                                'WT_Max_Global (mm)'])
-    # df.to_csv(args.output_max_csv)
+    df.to_csv(args.output_max_csv)
