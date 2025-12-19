@@ -1,0 +1,191 @@
+,"field_name","continuous"
+46,"Hand grip strength (left)",1
+47,"Hand grip strength (right)",1
+48,"Waist circumference",1
+49,"Hip circumference",1
+50,"Standing height",1
+54,"UK Biobank assessment centre",0
+102,"Pulse rate automated reading",1
+120,"Birth weight known",0
+130,"Place of birth in UK - east co-ordinate",0
+132,"Job code",0
+137,"Number of treatments/medications taken",1
+189,"Townsend deprivation index at recruitment",1
+398,"Number of correct matches in round",1
+399,"Number of incorrect matches in round",1
+400,"Time to complete round",1
+404,"Duration to first press of snap-button in each round",1
+757,"Time employed in main current job",1
+845,"Age completed full time education",1
+864,"Number of days/week walked 10+ minutes",1
+874,"Duration of walks",1
+884,"Number of days/week of moderate physical activity 10+ minutes",1
+894,"Duration of moderate activity",1
+904,"Number of days/week of vigorous physical activity 10+ minutes",1
+914,"Duration of vigorous activity",1
+924,"Usual walking pace",0
+1001,"Duration of strenuous sports",0
+1160,"Sleep duration",1
+1200,"Sleeplessness / insomnia",0
+1239,"Current tobacco smoking",0
+1249,"Past tobacco smoking",0
+1279,"Exposure to tobacco smoke outside home",1
+1329,"Oily fish intake",0
+1339,"Non-oily fish intake",0
+1488,"Tea intake",1
+1558,"Alcohol intake frequency.",0
+1628,"Alcohol intake versus 10 years previously",0
+1647,"Country of birth (UK/elsewhere)",0
+1707,"Handedness (chirality/laterality)",0
+1717,"Skin colour",0
+2040,"Risk taking",0
+2050,"Frequency of depressed mood in last 2 weeks",1
+2090,"Seen doctor (GP) for nerves anxiety tension or depression",0
+2100,"Seen a psychiatrist for nerves anxiety tension or depression",0
+2178,"Overall health rating",0
+2188,"Long-standing illness disability or infirmity",0
+2227,"Other eye problems",0
+2247,"Hearing difficulty/problems",0
+2296,"Falls in the last year",0
+2316,"Wheeze or whistling in the chest in last year",0
+2335,"Chest pain or discomfort",0
+2443,"Diabetes diagnosed by doctor",0
+2453,"Cancer diagnosed by doctor",0
+2473,"Other serious medical condition/disability diagnosed by doctor",0
+2492,"Taking other prescription medications",0
+2644,"Light smokers, at least 100 smokes in lifetime",0
+2966,"Age high blood pressure diagnosed",1
+3606,"Chest pain or discomfort walking normally",0
+3751,"Chest pain or discomfort when walking uphill or hurrying",0
+3761,"Age hay fever rhinitis or eczema diagnosed",1
+3786,"Age asthma diagnosed",1
+3799,"Headaches for 3+ months",0
+4079,"Diastolic blood pressure, automated reading",1
+4080,"Systolic blood pressure, automated reading",1
+4194,"Pulse rate",1
+4250,"Number of digits to be memorised/recalled",1
+4254,"Time first key touched",1
+4255,"Time last key touched",1
+4256,"Time elapsed",1
+4282,"Maximum digits remembered correctly",1
+4283,"Number of rounds of numeric memory test performed",1
+4288,"Time to answer",1
+4291,"Number of attempts",1
+4292,"PM: initial answer",0
+4407,"Average monthly red wine intake",1
+4429,"Average monthly beer plus cider intake",1
+4440,"Average monthly spirits intake",1
+4526,"Happiness",0
+4598,"Ever depressed for a whole week",0
+4609,"Longest period of depression",1
+4620,"Number of depression episodes",1
+4717,"Shortness of breath walking on level ground",0
+4803,"Tinnitus",0
+4957,"FI3 : word interpolation",0
+4968,"FI4 : positional arithmetic",0
+5001,"FI7 : synonym",0
+5012,"FI8 : chained arithmetic",0
+5556,"FI9 : concept interpolation",0
+5699,"FI10 : arithmetic sequence recognition",0
+5779,"FI11 : antonym",0
+6138,"Qualifications",0
+6142,"Current employment status",0
+6145,"Illness injury bereavement stress in last 2 years",0
+6150,"Vascular/heart problems diagnosed by doctor",0
+6152,"Blood clot DVT bronchitis emphysema asthma rhinitis eczema allergy diagnosed by doctor",0
+6153,"Medication for cholesterol blood pressure diabetes or take exogenous hormones",0
+6155,"Vitamin and mineral supplements",0
+6164,"Types of physical activity in last 4 weeks",0
+6177,"Medication for cholesterol blood pressure or diabetes ",0
+6179,"Mineral and other dietary supplements",0
+6312,"Value entered",1
+6332,"Item selected for each puzzle",1
+6333,"Duration spent answering each puzzle",1
+6348,"Duration to complete numeric path (trail #1)",1
+6349,"Total errors traversing numeric path (trail #1)",1
+6350,"Duration to complete alphanumeric path (trail #2)",1
+6351,"Total errors traversing alphanumeric path (trail #2)",1
+6362,"First code array presented",0
+6373,"Number of puzzles correctly solved",1
+6374,"Number of puzzles viewed",1
+6382,"Number of puzzles correct",1
+6383,"Number of puzzles attempted",1
+6772,"Interval between previous point and current one in numeric path (trail #1)",1
+6773,"Interval between previous point and current one in alphanumeric path (trail #2)",1
+12673,"Heart rate during PWA",1
+12674,"Systolic brachial blood pressure during PWA",1
+12675,"Diastolic brachial blood pressure during PWA",1
+12676,"Peripheral pulse pressure during PWA",1
+12677,"Central systolic blood pressure during PWA",1
+12678,"Central pulse pressure during PWA",1
+12679,"Number of beats in waveform average for PWA",1
+12680,"Central augmentation pressure during PWA",1
+12681,"Augmentation index for PWA",1
+12682,"Cardiac output during PWA",1
+12683,"End systolic pressure during PWA",1
+12684,"End systolic pressure index during PWA",1
+12685,"Total peripheral resistance during PWA",1
+12686,"Stroke volume during PWA",1
+12698,"Diastolic brachial blood pressure",1
+12702,"Cardiac index during PWA",1
+20001,"Cancer code self-reported",0
+20002,"Non-cancer illness code self-reported",0
+20016,"Fluid intelligence score",1
+20018,"Prospective memory result",0
+20022,"Birth weight",1
+20023,"Mean time to correctly identify matches",1
+20084,"Vitamin and/or mineral supplement use",0
+20116,"Smoking status",0
+20117,"Alcohol drinker status",0
+20118,"Home area population density - urban or rural",0
+20126,"Bipolar and major depression status",0
+20127,"Neuroticism score",1
+20128,"Number of fluid intelligence questions attempted within time limit",1
+20132,"Number of incorrect matches in round",1
+20133,"Time to complete round",1
+20156,"Duration to complete numeric path (trail #1)",1
+20157,"Duration to complete alphanumeric path (trail #2)",1
+20159,"Number of symbol digit matches made correctly",1
+20160,"Ever smoked",0
+20161,"Pack years of smoking",1
+20162,"Pack years adult smoking as proportion of life span exposed to smoking",1
+20195,"Number of symbol digit matches attempted",1
+20230,"Duration to entering value",1
+20240,"Maximum digits remembered correctly",1
+20244,"Pairs matching completion status",0
+20246,"Trail making completion status",0
+20247,"Total errors traversing numeric path (trail #1)",1
+20248,"Total errors traversing alphanumeric path (trail #2)",1
+20546,"Substances taken for depression",0
+20549,"Substances taken for anxiety",0
+21000,"Ethnic background",0
+21001,"Body mass index (BMI)",1
+21002,"Weight",1
+21004,"Number of puzzles correct",1
+21021,"Pulse wave Arterial Stiffness index",1
+22403,"Anterior thigh lean muscle volume (right)",1
+22404,"Posterior thigh lean muscle volume (right)",1
+22405,"Anterior thigh lean muscle volume (left)",1
+22406,"Posterior thigh lean muscle volume (left)",1
+22407,"Visceral adipose tissue volume (VAT)",1
+22408,"Abdominal subcutaneous adipose tissue volume (ASAT)",1
+22420,"LV ejection fraction",1
+22421,"LV end diastolic volume",1
+22422,"LV end systolic volume",1
+22423,"LV stroke volume",1
+22424,"Cardiac output",1
+22425,"Cardiac index",1
+22426,"Average heart rate",1
+22427,"Body surface area",1
+22506,"Tobacco smoking",0
+23099,"Body fat percentage",1
+23100,"Whole body fat mass",1
+23105,"Basal metabolic rate",1
+23321,"Values wanted",1
+23322,"Values entered",1
+23323,"Number of symbol digit matches attempted",1
+23324,"Number of symbol digit matches made correctly",1
+100240,"Coffee consumed",0
+100390,"Tea consumed",0
+100580,"Alcohol consumed",0
+104670,"Vitamin supplement user",0
